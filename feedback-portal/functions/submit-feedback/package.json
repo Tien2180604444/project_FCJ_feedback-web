@@ -1,0 +1,11 @@
+{
+  "name": "submit-feedback",
+  "version": "1.0.0",
+  "description": "Lambda function to submit feedback",
+  "main": "app.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
