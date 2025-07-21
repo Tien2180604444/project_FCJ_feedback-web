@@ -237,6 +237,18 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Giữ lại toàn bộ thư mục frontend
+!frontend/
+!frontend/**
+
+# Đừng bỏ qua các file con của frontend
+!frontend/**/*.js
+!frontend/**/*.css
+!frontend/**/*.ts
+!frontend/**/*.jsx
+!frontend/**/*.tsx
+!frontend/**/*.json
+
 # Build folder
 
 */build/*
